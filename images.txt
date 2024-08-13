@@ -6,3 +6,4 @@ xhofe/alist:latest
 redis
 python
 biocontainers/biocontainers
+cetOS8
